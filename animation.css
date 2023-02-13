@@ -140,8 +140,9 @@ body{
 
 .flag{
     position: absolute;
-    bottom: 195px;
-    transform: translateX(830%);
+    bottom: 190px;
+    transform: translateX(-50%);
+    left: 59%;
     z-index: 2;
 }
 .flag img{
